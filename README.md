@@ -8,3 +8,5 @@ This is a list item
 and this is another one!
 
 ### This is an even smaller headline
+
+![sentosa.j]
