@@ -9,4 +9,4 @@ and this is another one!
 
 ### This is an even smaller headline
 
-![sentosa.j]
+![] sentosa.jpg
